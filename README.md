@@ -5,7 +5,7 @@ A collection of wallpapers created by me
 
 ![NexusSpace](NexusSpace.png)
 ![NexusSea](NexusSea.png)
-![NexusLandscape](NexusLandspace.png)
+![NexusLandscape](NexusLandscape.png)
 ![NexusMountain](NexusMountain.png)
 
 ## Voyager (Blue)
